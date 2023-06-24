@@ -1,0 +1,3 @@
+print n
+%%
+int n = 2
